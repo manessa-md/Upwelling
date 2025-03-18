@@ -1,6 +1,6 @@
 ---
-layout: default
 title: "Module 6: LANDSAT"
+nav_order: 7
 ---
 
 {% include _sidebar.md %}
