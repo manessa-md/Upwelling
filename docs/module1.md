@@ -1,7 +1,6 @@
 ---
-layout: default
 title: "Module 1: Dasar Coding JavaScript dan Pengenalan Google Earth Engine"
-permalink: /BUDEE/module1.html
+nav_order: 2
 ---
 
 {% include _sidebar.md %}
