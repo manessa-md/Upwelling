@@ -1,10 +1,7 @@
 ---
-layout: default
 title: "GCOM"
-permalink: /BUDEE/module4.html
+nav_order: 5
 ---
-
-{% include _sidebar.md %}
 
 # **Global Change Observation Mission (GCOM)**
 
