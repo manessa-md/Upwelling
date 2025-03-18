@@ -3,8 +3,6 @@ title: "Module 6: LANDSAT"
 nav_order: 7
 ---
 
-{% include _sidebar.md %}
-
 # **Menerapkan Algoritma Chlorophyll pada Citra Landsat 8**
 
 ## **Pendahuluan**
