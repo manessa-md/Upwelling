@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Module on Upwelling in GEE."
+description: "Module on Upwelling in GEE"
 permalink: /
 ---
 
