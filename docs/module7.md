@@ -1,10 +1,7 @@
 ---
-layout: default
 title: "Module 7: LANDSAT TIMESERIES"
-permalink: /BUDEE/module7.html
+nav_order: 8
 ---
-
-{% include _sidebar.md %}
 
 # TimeSeries CHL dengan Citra Landsat-8
 
