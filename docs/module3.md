@@ -1,10 +1,8 @@
 ---
-layout: default
 title: "Module 3: Dasar Coding Google Earth Engine"
-permalink: /BUDEE/module3.html
+nav_order: 4
 ---
 
-{% include _sidebar.md %}
 
 # PANDUAN DASAR GOOGLE EARTH ENGINE
 Dasar Koding
