@@ -2,6 +2,8 @@
 title: Home
 layout: home
 nav_order: 1
+description: "Module on Upwelling in GEE."
+permalink: /
 ---
 
 # Pelatihan Google Earth Engine untuk Monitoring Historikal Upwelling
