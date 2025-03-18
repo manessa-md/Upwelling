@@ -1,10 +1,7 @@
 ---
-layout: default
 title: "Module 5: MODIS"
-permalink: /BUDEE/module5.html
+nav_order: 5
 ---
-
-{% include _sidebar.md %}
 
 # Analisis Time Series dengan Citra MODIS
 
